@@ -1,16 +1,5 @@
-# application_1
+# Breathio
 
-A new Flutter project.
+A multi-platform mobile application that would display all the necessary information about various gas emissions and AQI of all the cities around the globe and includes graphs for better understanding. This will ensure that the users have a better understanding of how better air quality feels and  why is it necessary to preserve it.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
